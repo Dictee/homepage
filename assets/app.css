@@ -1,3 +1,29 @@
+
+/* service icons */
+
 .img-circle {
   border: 3px solid black;
+}
+
+
+/* marketing sections */
+
+@media (min-width: 768px) {
+
+  .featurette {
+    height: 300px;
+  }
+
+  .featurette > div {
+    height: 100%;
+  }
+
+  img.featurette-image {
+    height: 100%;
+  }
+
+  .featurette-heading {
+    margin-top: 20px;
+  }
+
 }

@@ -45,8 +45,8 @@ body {
   z-index: 10;
   background: rgba(0, 0, 0, 0.75);
   border-radius: 12px;
-  padding-left: 12px;
-  padding-right: 12px;
+  padding-left: 32px;
+  padding-right: 32px;
 }
 
 /* Declare heights because of positioning of img element */
